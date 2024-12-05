@@ -83,23 +83,23 @@ body {
     text-align: center;
 }
 
-.home-intro h2 {
+#introduction h2 {
     font-size: 3rem;
     margin-bottom: 10px;
 }
 
-.home-intro h2 span {
+#introduction h2 span {
     color: #462421;
     font-weight: bold;
 }
 
-.home-intro .tagline {
+#introduction .tagline {
     font-size: 1.5rem;
     margin-bottom: 15px;
     font-style: italic;
 }
 
-.home-intro .description {
+#introduction .description {
     margin-bottom: 20px;
     font-size: 1.2rem;
 }
